@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... C# and .NETCORE MVC
 - 💞️ I’m looking to collaborate on ... Open source
 - 📫 How to reach me ... lopezorlando23@gmail.com
-- You can also check out my website at ... orlandolopez.tech
+- You can also check out my website at ... www.orlandolopez.tech
 
 <!---
 orlando1424/orlando1424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
